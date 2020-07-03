@@ -1,3 +1,3 @@
-var scene = document.querySelector('.scene');
+var scene = document.getElementById('scene');
 
-var parralax = new Parralax(scene);
+var parralax = new Parallax(scene);
